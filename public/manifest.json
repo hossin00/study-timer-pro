@@ -1,0 +1,27 @@
+{
+  "name": "Study Timer Pro",
+  "short_name": "Study",
+  "description": "Pomodoro timer, focus sessions, study analytics.",
+  "start_url": "/study-timer-pro/",
+  "scope": "/study-timer-pro/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#8b5cf6",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/study-timer-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/study-timer-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
